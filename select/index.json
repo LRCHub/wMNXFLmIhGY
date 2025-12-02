@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Electricity",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-02T05:06:15.213482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Static Electricity",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Static_Electricity_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/02_Electricity_Liz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Longview",
+      "has_synced": false,
+      "path": "select/03_Electricity_Longview.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/04_Electricity_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/05_Electricity_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Electricity - 2003 Digital Remaster",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/06_Electricity_-_2003_Digital_Remaster_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Electricity (Dindisc 1980 Version)",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/07_Electricity_(Dindisc_1980_Version)_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Electricity (Hannett / Cargo Studios Version)",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/08_Electricity_(Hannett___Cargo_Studios_Version)_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/09_Electricity_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Father Electricity",
+      "artist": "Julian Casablancas+The Voidz",
+      "has_synced": true,
+      "path": "select/10_Father_Electricity_Julian_Casablancas+The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Electricity (Drugs)",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/11_Electricity_(Drugs)_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/12_Electricity_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/13_Electricity_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Silk City feat. Dua Lipa",
+      "has_synced": true,
+      "path": "select/14_Electricity_Silk_City_feat._Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Electricity",
+      "artist": "Dua Lipa, Silk City",
+      "has_synced": true,
+      "path": "select/15_Electricity_Dua_Lipa,_Silk_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Electricity",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Electricity_宇多田_ヒカル.txt"
+    }
+  ]
+}
